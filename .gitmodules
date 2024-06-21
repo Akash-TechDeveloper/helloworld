@@ -1,0 +1,3 @@
+[submodule "shoppinge-comm"]
+	path = shoppinge-comm
+	url = https://github.com/Akash-appdeveoper/shoppinge-comm.git
